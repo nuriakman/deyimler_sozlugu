@@ -1,5 +1,5 @@
-# Bulmaca Sözlüğü
+# Deyimler Sözlüğü
 
-Bootstrap, PHP ve MySQL ile bulmaca sözlüğü.
+Bootstrap, PHP ve MySQL ile deyimler sözlüğü.
 
-BULMACA yazısı, Dafont.com sitesindeki [Fonts Bomb Jigsaw](https://www.dafont.com/fonts-bomb-jigsaw.font?text=Bulmaca&psize=l) fontu kullanılarak yapılmıştır.
+Deyimler Sözlüğü logosu, Dafont.com sitesindeki [C.A. Gatintas](https://www.dafont.com/c-a-gatintas.font?text=Deyimler+S%F6zl%FC%26%23287%3B%FC&back=theme) fontu kullanılarak yapılmıştır.

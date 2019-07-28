@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Bulmaca Sözlüğü</title>
+    <title>Deyimler Sözlüğü</title>
   </head>
   <body>
 
@@ -16,7 +16,7 @@
     <div class="container">
 
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="index.php">BulmacaSözlüğü</a>
+        <a class="navbar-brand" href="index.php">DeyimlerSözlüğü</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -35,7 +35,7 @@
 
 <div class="row mt-4 mb-4">
   <div class="col-md-12 text-center">
-      <img class="img-fluid" src="bulmaca-buyuk.png" />
+      <img class="img-fluid" src="logo-buyuk.png" />
   </div>
 </div>
 
@@ -45,10 +45,10 @@
   </div>
   <div class="col-md-8">
     <div class="jumbotron">
-      <h1 class="display-4">Bulmaca Sözlüğü...</h1>
+      <h1 class="display-4">Deyimler Sözlüğü...</h1>
       <p class="lead">Bu proje, BootStrap, PHP ve MySQL'i anlamak için Özgür Yazılım Yaz Kampında örnek olarak geliştirilmiştir.</p>
       <hr class="my-4">
-      <p><a href="https://github.com/nuriakman/bulmaca_sozlugu">Projenin kaynak kodları</a> github sitesinden temin edilebilir</p>
+      <p><a href="https://github.com/nuriakman/deyimler_sozlugu">Projenin kaynak kodları</a> github sitesinden temin edilebilir</p>
       <a class="btn btn-success btn-lg" href="https://kamp.linux.org.tr/2019/yaz/" role="button">Özgür Yazılım Yaz Kampı hakkında bilgi alın !</a>
     </div>
   </div>
