@@ -35,7 +35,7 @@
 
 <div class="row mt-4 mb-4">
   <div class="col-md-12 text-center">
-      <img class="img-fluid" src="bulmaca.png" />
+      <img class="img-fluid" src="bulmaca-buyuk.png" />
   </div>
 </div>
 
@@ -45,11 +45,11 @@
   </div>
   <div class="col-md-8">
     <div class="jumbotron">
-      <h1 class="display-4">Proje Hakkında...</h1>
+      <h1 class="display-4">Bulmaca Sözlüğü...</h1>
       <p class="lead">Bu proje, BootStrap, PHP ve MySQL'i anlamak için Özgür Yazılım Yaz Kampında örnek olarak geliştirilmiştir.</p>
       <hr class="my-4">
-      <p>Özgür Yazılım Yaz Kampı hakkında detaylı bilgiler</p>
-      <a class="btn btn-success btn-lg" href="https://kamp.linux.org.tr/2019/yaz/" role="button">Özgür Yazılım Yaz Kampı</a>
+      <p><a href="https://github.com/nuriakman/bulmaca_sozlugu">Projenin kaynak kodları</a> github sitesinden temin edilebilir</p>
+      <a class="btn btn-success btn-lg" href="https://kamp.linux.org.tr/2019/yaz/" role="button">Özgür Yazılım Yaz Kampı hakkında bilgi alın !</a>
     </div>
   </div>
   <div class="col-md-2">
@@ -60,7 +60,7 @@
 <div class='row'>
   <div class='col-md-12'>
     <div class="alert alert-dark text-center" role="alert">
-      Özgür Yazılım Yaz Kampı, PHP Sınıfı, 2019
+      Özgür Yazılım Yaz Kampı, PHP Sınıfı, 28 Temmuz 2019
     </div>
   </div>
 </div>
