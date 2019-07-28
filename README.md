@@ -1,2 +1,3 @@
-# bulmaca_sozlugu
+# Bulmaca Sözlüğü
+
 Bootstrap, PHP ve MySQL ile bulmaca sözlüğü
