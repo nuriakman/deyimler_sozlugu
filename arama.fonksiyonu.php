@@ -15,7 +15,7 @@ mysqli_query($db, "set names 'utf8'");
 ?>
 
 <div class="alert alert-success" role="alert">
-  Arama sırasında bilmediğinin harfler için <b>alt çizgi</b> karakterini kullanın
+  Arama sırasında bilmediğiniz harfler için <b>alt çizgi</b> karakterini kullanın
 </div>
 
 <form method="get">
