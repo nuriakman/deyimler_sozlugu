@@ -43,8 +43,8 @@
   <div class="col-md-2">
 
   </div>
-  <div class="col-md-8">
-
+  <div class="col-md-8 text-center">
+      <?php require("arama.fonksiyonu.php");?>
   </div>
   <div class="col-md-2">
 
