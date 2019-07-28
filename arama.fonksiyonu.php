@@ -35,7 +35,7 @@ mysqli_query($db, "set names 'utf8'");
       </tr>
 
     <?php
-    $SQL   = "SELECT soru, cevap FROM bulmaca WHERE cevap LIKE '{$_GET["aranansozcuk"]}' ORDER BY soru ";
+    $SQL   = "SELECT soru, cevap FROM bulmaca WHERE cevap LIKE '{$_GET["aranansozcuk"]}' ORDER BY cevap ";
     $rows  = mysqli_query($db, $SQL);
 
     while($row = mysqli_fetch_assoc($rows)) { // Kayıt adedince döner
